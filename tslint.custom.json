@@ -1,0 +1,8 @@
+{
+  "rules": {
+    "no-console": [true, "log", "warning"],
+    "no-duplicate-variable": true,
+    "no-boolean-literal-compare": false,
+    "variable-name": [true, "ban-keywords", "check-format", "allow-pascal-case"]
+  }
+}
